@@ -1,0 +1,20 @@
+name: RealmCraftPlugin
+main: io.github.jackdebugjava.RealmCraftPlugin.RealmCraftPlugin
+version: 1.1.0
+author: jackapops
+commands:
+   amigay:
+      description: See if you are gay
+      usage: /<command> [player]
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission> retard
+   areyougay:
+      description: See if the plugin is gay
+      usage: /<command> [player]
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission> retard
+   nou:
+      description: No u
+      usage: /<command> [player]
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission> retard
