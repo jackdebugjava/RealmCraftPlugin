@@ -9,6 +9,6 @@ public class listener implements Listener {
     @EventHandler
     public void PlayerJoin(PlayerJoinEvent event) {
    Player p =  event.getPlayer();
-        p.sendMessage(ChatColor.AQUA + "A new player has joined the server!");
+        p.sendMessage(ChatColor.AQUA + "Welcome to the server! :)"); //message to players when they join
     }
 }
