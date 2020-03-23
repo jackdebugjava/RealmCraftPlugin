@@ -14,5 +14,5 @@ permissions:
         children:
             RealmCraftPlugin.basic: true
     RealmCraftPlugin.basic:
-        description: Allows you to kick a user
+        description: Allows you to kick a user, right in the ribs.
         default: true
